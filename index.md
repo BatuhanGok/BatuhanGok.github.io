@@ -1,35 +1,17 @@
 
 
 
-   Ben Batuhan Gök. Dokuz Eylül Üniversitesi'nde Sinema Bölümü okumaktayım. Food and Beverage ve Front Office kısımlarında çalıştım. En deneyimli olduğum kısım Front Office bölümünde Bellboy'luk pozisyonudur. ingilizcem Upper-Intermediate seviyesindedir. 
-
-```markdown
-Syntax highlighted code block
+   Ben Batuhan Gök. Dokuz Eylül Üniversitesi'nde Sinema Bölümü öğrencisiyim. Online eğitim sürecinden kaynaklı olarak memleketim olan Marmaris'te yaşıyorum. Şu ana kadar çeşitli iş deneyimlerim oldu. Hem kendim hem de sizin adınıza verimli olmak için sizinle çalışmaya çok istekliyim. 
+   
+# Deneyimli olduğu işler
+Macera Atölyesi (İzmir) - Animatörlük
+Palmiye Beach Cafe (Marmaris) - Garsonluk
+Orka Lotus Beach (Marmaris) - Bellboy
 
 # Referans Numaraları
 Suzan Zift - Marmaris Belediyesi - 0532 283 26 65
 Kezban Hanım - Orka Lotus Beach - 0549 527 40 13
 
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BatuhanGok/BatuhanGok.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#Etkin Olunan Diller
+İngilizce - Upper Intermediate
+Türkçe - Native
