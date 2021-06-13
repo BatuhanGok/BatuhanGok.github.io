@@ -7,9 +7,11 @@
 Halıcı Ahmet Urkay Anadolu Lisesi(2014 - 2018)   
 Dokuz Eylül Üniversitesi Sinema Bölümü (2020 - )   
    
-# Deneyimli olduğu işler
-Macera Atölyesi (İzmir) - Animatörlük   
-Palmiye Beach Cafe (Marmaris) - Garsonluk   
+# İş Deneyimleri
+Alabi Restaurant (Marmaris) - Garson   
+Tato Bar (İzmir) - Garson   
+Macera Atölyesi (İzmir) - Animatör   
+Palmiye Beach Cafe (Marmaris) - Garson   
 Orka Lotus Beach (Marmaris) - Bellboy   
 
 # Etkin Olunan Diller
