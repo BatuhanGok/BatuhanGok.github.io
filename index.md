@@ -1,6 +1,4 @@
 
-
-# Batuhan Gök
    Online eğitim sürecinden kaynaklı olarak memleketim olan Marmaris'te yaşıyorum. Şu ana kadar çeşitli iş deneyimlerim oldu. Hem kendim hem de sizin adınıza verimli olmak için sizinle çalışmaya çok istekliyim. 
    
 # Eğitim Düzeyi   
