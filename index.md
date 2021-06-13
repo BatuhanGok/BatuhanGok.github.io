@@ -8,10 +8,10 @@ Macera Atölyesi (İzmir) - Animatörlük
 Palmiye Beach Cafe (Marmaris) - Garsonluk   
 Orka Lotus Beach (Marmaris) - Bellboy   
 
+# Etkin Olunan Diller
+İngilizce - Upper Intermediate   
+Türkçe - Native   
+
 # Referans Numaraları
 Suzan Zift - Marmaris Belediyesi - 0532 283 26 65   
 Kezban Hanım - Orka Lotus Beach - 0549 527 40 13   
-
-#Etkin Olunan Diller
-İngilizce - Upper Intermediate   
-Türkçe - Native   
