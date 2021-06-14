@@ -1,4 +1,3 @@
-![alt text](https://github.com/BatuhanGok/BatuhanGok.github.io/blob/main/batu.jpg "Batuhan")
    Online eğitim sürecinden kaynaklı olarak memleketim olan Marmaris'te yaşıyorum. Şu ana kadar çeşitli iş deneyimlerim oldu. Hem kendim hem de sizin adınıza verimli olmak için sizinle çalışmaya çok istekliyim. 
    
 # Eğitim Düzeyi   
